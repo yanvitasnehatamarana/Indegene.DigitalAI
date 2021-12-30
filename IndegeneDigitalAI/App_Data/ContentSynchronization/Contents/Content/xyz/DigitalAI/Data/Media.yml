@@ -1,0 +1,18 @@
+﻿---
+ID: "f66caa83-6dfe-4f36-9e92-4293f4e5eee7"
+Parent: "3e862689-377c-467d-a43d-df113aa9e09a"
+Template: "81150e58-37f5-443f-a3c0-75e14a9321e7"
+Path: /sitecore/content/xyz/DigitalAI/Data/Media
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211217T085912Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
