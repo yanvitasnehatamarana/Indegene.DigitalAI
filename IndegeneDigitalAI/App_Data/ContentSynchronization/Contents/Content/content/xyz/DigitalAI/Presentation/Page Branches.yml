@@ -1,0 +1,18 @@
+﻿---
+ID: "96c00f84-53d8-4cb6-9070-db09b185d66e"
+Parent: "4a922716-3ecc-4c7c-bcc2-b6d0201d6f1e"
+Template: "fbc802e5-4b9e-480f-93da-3f2a80cae5cb"
+Path: /sitecore/content/xyz/DigitalAI/Presentation/Page Branches
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211217T085931Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
