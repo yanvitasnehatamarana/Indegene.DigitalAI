@@ -572,6 +572,8 @@
     <Content Include="App_Data\ContentSynchronization\Templates\Templates\Project\xyz\Site\__Standard Values.yml" />
     <Content Include="App_Data\ContentSynchronization\Templates\Templates\Project\xyz\Tenant.yml" />
     <Content Include="App_Data\ContentSynchronization\Templates\Templates\Project\xyz\Tenant\__Standard Values.yml" />
+    <Content Include="App_Data\ContentSynchronization\Layouts\Renderings\DigitalAI.yml" />
+    <Content Include="App_Data\ContentSynchronization\Layouts\Renderings\DigitalAI\xyzLayout.yml" />
     <None Include="packages.config" />
     <Content Include="Web.config" />
     <None Include="Properties\PublishProfiles\IISProfile.pubxml" />
