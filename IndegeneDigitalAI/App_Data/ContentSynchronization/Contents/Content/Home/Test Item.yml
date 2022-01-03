@@ -26,3 +26,6 @@ Languages:
     - ID: "75577384-3c97-45da-a847-81b00500e250"
       Hint: Title
       Value: Test Item
+    - ID: "a60acd61-a6db-4182-8329-c957982cec74"
+      Hint: Text
+      Value: This is a test item
