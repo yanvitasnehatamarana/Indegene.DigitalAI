@@ -115,6 +115,7 @@
     </Reference>
     <Reference Include="System.Web.Webpages">
       <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.7\lib\net45\System.Web.Webpages.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="System.Web.Webpages.Deployment">
       <HintPath>..\packages\Microsoft.AspNet.Webpages.3.2.7\lib\net45\System.Web.Webpages.Deployment.dll</HintPath>
