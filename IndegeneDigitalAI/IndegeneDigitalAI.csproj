@@ -150,7 +150,7 @@
   <ItemGroup>
     <Content Include="Global.asax" />
     <Content Include="Views\web.config" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.SharedSecret.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.zSharedSecret.config" />
     <Content Include="App_Config\Include\Rainbow.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.UI.IdentityServer.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.UI.config" />
