@@ -173,6 +173,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\ContentSynchronization\" />
+    <Folder Include="App_Data\DigitalAI_UnicornSync_Scripts\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
