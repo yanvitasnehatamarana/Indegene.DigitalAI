@@ -1,8 +1,8 @@
 ﻿---
-ID: "a0779ac6-a5dd-43ec-a98d-2e4bdd11cd92"
+ID: "c7668da0-71ec-4533-94d2-72986715fc93"
 Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
 Template: "76036f5e-cbce-46d1-af0a-4143f9b557aa"
-Path: /sitecore/content/Home/Sample Item
+Path: /sitecore/content/Home/Sample Item3
 DB: master
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
