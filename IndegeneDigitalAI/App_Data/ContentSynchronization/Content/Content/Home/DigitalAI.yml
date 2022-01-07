@@ -2,7 +2,7 @@
 ID: "a0779ac6-a5dd-43ec-a98d-2e4bdd11cd92"
 Parent: "110d559f-dea5-42ea-9c1c-8a5df7e70ef9"
 Template: "76036f5e-cbce-46d1-af0a-4143f9b557aa"
-Path: /sitecore/content/Home/Sample Item
+Path: /sitecore/content/Home/DigitalAI
 DB: master
 SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
@@ -72,7 +72,7 @@ Languages:
         sitecore\Admin
     - ID: "75577384-3c97-45da-a847-81b00500e250"
       Hint: Title
-      Value: Sample Item
+      Value: Digital.ai
     - ID: "a60acd61-a6db-4182-8329-c957982cec74"
       Hint: Text
-      Value: "Sample Item - Sneha Tamarana"
+      Value: 

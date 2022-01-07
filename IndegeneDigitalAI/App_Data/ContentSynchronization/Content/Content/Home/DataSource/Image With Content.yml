@@ -11,17 +11,30 @@ Languages:
     Fields:
     - ID: "05e29d95-4779-4b9e-8b5a-b9f64719e95d"
       Hint: Title
-      Value: "Welcome to the Site!!!"
+      Value: 
     - ID: "070dd92f-ca22-4c83-8a8d-f2ae2ad63255"
       Hint: Description
-      Value: <p>Sample Website for the Demo</p>
+      Value: |
+        <div class="description">
+        <h4>Digital.ai Release is a release management tool specifically for CD. It enables teams across an organization to model &amp; monitor releases automate tasks within IT infrastructure and cut release times by analyzing and improving release processes.</h4>
+        <h4>A release is divided into phases, which represent logical stages in the process that must happen in succession. For example, a release could include Development, QA, and Deployment phases. In Digital.ai Release, a phase is a grouping of tasks, which are the activities that must be done to fulfill the release.</h4>
+        <img alt="release flow" src="-/media/35EC4013BB524214A91B4B95EEF8BAD1.ashx" />
+        <h4>Entire Sitecore Website CI/CD process is automated with Digital.ai. Once the developers are done with code checkin, we had to run the Start Release. Then the below steps are processed.
+        <li>JIRA ticket is updated to the Next stage. For Example: To Do to In Progress</li>
+        <li>Pull request and Merge Request is triggered to the GIT Repo of Release branch.</li>
+        <li>Jenkins will build the Release branch code and artifacts are created.</li>
+        <li>This artifact is deployed to Octopus Built in Repository.</li>
+        <li>Based on the process created the deployment will be made to the Higher Environments.</li>
+        <li>Similar activity takes place in DEV,UAT,PROD environments.</li>
+        <li>Back Syncing the Production Sitecore Content Items is also created in a different template. We can run that specific Rollback template once there are any latest changes in Production.</li>
+        </h4>
+        </div>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20220107T075258Z
     - ID: "3333bc18-d3dc-4038-bda5-2890743f0c2f"
       Hint: Image
-      Value: |
-        <image mediaid="{23843330-8542-4BBC-A87E-A93F8828C072}" />
+      Value: 
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
