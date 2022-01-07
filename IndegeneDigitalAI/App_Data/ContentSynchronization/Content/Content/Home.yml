@@ -84,6 +84,21 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9E81CBD7-29C0-4FFE-ADA4-5C07B1FA6725}"
+              p:after="*[1=2]"
+              s:id="{17F6B4F5-2F95-43E3-8D38-88434222A03E}"
+              s:ph="main" />
+          </d>
+        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20080407T105900Z

@@ -1,0 +1,22 @@
+﻿@using Sitecore.Mvc
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Website</title>  
+</head>
+<body>
+    <div class="root">
+        <div class="header-content">
+            @Html.Sitecore().Placeholder("phHeader")
+        </div>
+
+        <div class="body-content">
+            @Html.Sitecore().Placeholder("phContent")
+        </div>
+
+        <div class="footer-content">
+            @Html.Sitecore().Placeholder("phFooter")
+        </div>
+    </div>
+</body>
+</html> 
