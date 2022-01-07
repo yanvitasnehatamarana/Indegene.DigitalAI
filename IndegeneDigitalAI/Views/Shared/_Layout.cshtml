@@ -1,0 +1,26 @@
+﻿@using Sitecore.Mvc
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Websites</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div>
+        <div class="header-content" style="background-color: #f8f9fa !important;">
+            @Html.Sitecore().Placeholder("phHeader")
+        </div>
+
+        <div class="body-content">
+            @Html.Sitecore().Placeholder("phContent")
+        </div>
+
+        <div class="footer-content" style="background-color: #f8f9fa !important;">
+            @Html.Sitecore().Placeholder("phFooter")
+        </div>
+    </div>
+</body>
+</html> 

@@ -161,6 +161,8 @@
     <Content Include="App_Config\Include\Unicorn\Serialization.config" />
     <Content Include="App_Config\Include\Unicorn\SourceFolder.config" />
     <None Include="packages.config" />
+    <Content Include="Views\ImageWithContent.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
     <None Include="Web.config" />
     <None Include="Properties\PublishProfiles\IISProfile.pubxml" />
     <Content Include="Views\Home\Home.cshtml" />
