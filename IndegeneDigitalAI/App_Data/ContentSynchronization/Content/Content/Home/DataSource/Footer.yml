@@ -1,0 +1,54 @@
+﻿---
+ID: "5d3fc881-c3c8-4fe3-85e1-1ff0ceddd23e"
+Parent: "5a6ada98-1fcf-4bb2-ab9f-cc9dce184ba1"
+Template: "89743501-8356-4d0f-aeff-6b9869e87ac2"
+Path: /sitecore/content/Home/DataSource/Footer
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "070dd92f-ca22-4c83-8a8d-f2ae2ad63255"
+      Hint: Description
+      Value: |
+        <footer class="w-100 py-4 flex-shrink-0 border border-success">
+        <div class="container py-4">
+        <div class="row gy-4 gx-5">
+        <div class="col-lg-4 col-md-6">
+        <h5 class="h1 text-white">About Us</h5>
+        <p>Formed by the leading providers of agile planning, DevOps, and application security technologies, we are on a mission to fundamentally change software creation and delivery.</p>
+        <p class="small text-muted mb-0">&copy; Copyrights. All rights reserved.</p>
+        </div>
+        <div class="col-lg-2 col-md-6">
+        <h5 class="text-white mb-3">Quick links</h5>
+        <ul class="list-unstyled text-muted">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Get started</a></li>
+            <li><a href="#">FAQ</a></li>
+        </ul>
+        </div>
+        <div class="col-lg-2 col-md-6">
+        <h5 class="text-white mb-3">Quick links</h5>
+        <ul class="list-unstyled text-muted">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Get started</a></li>
+            <li><a href="#">FAQ</a></li>
+        </ul>
+        </div>
+        <div class="col-lg-4 col-md-6">
+        <h5 class="h1 text-white">Newsletter</h5>
+        <p>We help the world&rsquo;s largest enterprises accelerate their digital transformation initiatives &mdash; connecting software planning, delivery, and application security in the first intelligent Value Stream Platform that provides the end-to-end visibility organizations need to deliver value and drive growth.</p>
+        </div>
+        </div>
+        </div>
+        </footer>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220107T075941Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
