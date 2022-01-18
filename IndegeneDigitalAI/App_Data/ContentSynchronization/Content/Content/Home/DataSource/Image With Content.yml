@@ -16,7 +16,7 @@ Languages:
       Hint: Description
       Value: |
         <div class="description">
-        <h4>Digital.ai Release is a release management tool specifically for CD. It enables teams across an organization to model &amp; monitor releases automate tasks within IT infrastructure and cut release times by analyzing and improving release processes.</h4>
+        <h4><b>Digital.ai Release is a release management tool specifically for CD. It enables teams across an organization to model &amp; monitor releases automate tasks within IT infrastructure and cut release times by analyzing and improving release processes.</b></h4>
         <h4>A release is divided into phases, which represent logical stages in the process that must happen in succession. For example, a release could include Development, QA, and Deployment phases. In Digital.ai Release, a phase is a grouping of tasks, which are the activities that must be done to fulfill the release.</h4>
         <img alt="release flow" src="-/media/35EC4013BB524214A91B4B95EEF8BAD1.ashx" />
         <h4>Entire Sitecore Website CI/CD process is automated with Digital.ai. Once the developers are done with code checkin, we had to run the Start Release. Then the below steps are processed.
