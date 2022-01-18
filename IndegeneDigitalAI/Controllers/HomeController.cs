@@ -12,6 +12,7 @@ namespace IndegeneDigitalAI.Controllers
         public ActionResult Index()
         {
             return View();
+            //commit
         }
     }
 }
